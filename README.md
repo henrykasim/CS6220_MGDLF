@@ -27,7 +27,7 @@ This is implementation for Multi-Granularity Deep Learning Framework (MGDLF) for
 * Variant of GCN to capture spatial correlations between different regions,
 * Use of GRUs to capture temporal interactions between different temporal trend,
 * Multi-granularity fusion module based on Fully-connected Neural Network (FNN) to fuse multiple latent representations from different temporal granularity.
-<img src="images/MGDLF.png" alt="MGDLF" width="200">
+<img src="images/MGDLF.png" alt="MGDLF" width="600">
 
 <!-- GETTING STARTED -->
 ## Getting Started
